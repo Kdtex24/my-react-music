@@ -1,0 +1,14 @@
+{
+  "title":"How To Be A Human Being",
+  "artist":"Glass Animals",
+  "artwork":"https://images.app.goo.gl/V3XbyjxELya997Sz8",
+  "tracks":[
+    {"id":1, "title":"Blow My Mind", "duration":"3:22"},
+    {"id":2, "title":"Disturbance", "duration":"3:44"},
+    {"id":3, "title":"Joe-boy:Baby", "duration":"2:47"},
+    {"id":4, "title":"O Por", "duration":"3:46"},
+    {"id":5, "title":"Risky", "duration":"4:31"},
+    {"id":6, "title":"Park n GO", "duration":"2:39"},
+    {"id":7, "title":"Billionaire ", "duration":"3:35"}
+  ]
+}
